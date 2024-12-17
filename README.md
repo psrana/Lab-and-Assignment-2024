@@ -16,7 +16,7 @@ https://forms.gle/B1M4KJmq3ZtXP88w7
   - Target5 - Roll Numbers ending with 4 or 9
 - Divide the dataset into 70/30.
 - Run multiple prediction models
-- 
+- Upload the detailed result analysis on Github and submit the link 
 - Result Submission link: https://forms.gle/yCcCJFwydMYo3GsT6
 
 
